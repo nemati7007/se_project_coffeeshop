@@ -8,10 +8,15 @@
   margin: 0 0 32px;
 }
 
+.card__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 .card__list-item {
   display: flex;
   font-family: "Noto Serif", "Times New Roman", serif;
-  list-style: none;
   margin-top: 16px;
 }
 

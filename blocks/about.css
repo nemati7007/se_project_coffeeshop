@@ -6,7 +6,7 @@
   padding: 100px 80px;
   position: relative;
   overflow: hidden;
-  z-index: -2;
+  z-index: 1;
 }
 
 .about__title {
